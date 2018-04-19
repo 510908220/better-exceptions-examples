@@ -1,4 +1,4 @@
-# [better-exceptions](https://github.com/Qix-/better-exceptions)
+# [better-exceptions](https://github.com/Qix-/better-exceptions)使用简介
 
 介绍这个库前,我们先看一个简单的例子(example.py),代码如下:
 
